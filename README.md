@@ -1,21 +1,20 @@
-🧠 Advice Generator App (React)
+# 🧠 Advice Generator App (React)
 
 A simple and responsive Advice Generator App built with React.js.
 It fetches random advice from the Advice Slip API
  and displays it in a minimal card design.
 Click the dice button to get a new piece of advice instantly!
 
-🚀 Demo
+## 🚀 Demo
 
-(Add your live link here if deployed on Netlify, Vercel, or GitHub Pages)
+https://Marioo-Ayman.github.io/Advice-Generator-App
 👉 Live Demo
 
-🖼️ Preview
+## 🖼️ Preview
 
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-
-
-🧩 Features
+## 🧩 Features
 
 Fetches random advice using the Advice Slip API
 
@@ -27,7 +26,7 @@ Responsive design suitable for desktop and mobile
 
 Simple and minimal codebase for learning and practice
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 React.js
 
@@ -37,32 +36,27 @@ CSS3
 
 Advice Slip API
 
-📦 Installation & Setup
+## 📦 Installation & Setup
 
 Clone the repository
-
+```bash
 git clone https://github.com/your-username/advice-generator.git
-
+```
 
 Navigate to the project folder
-
+```bash
 cd advice-generator
-
+```
 
 Install dependencies
-
+```bash
 npm install
-
+```
 
 Start the development server
-
+```bash
 npm run dev
-
+```
 
 Open your browser at
 👉 http://localhost:5173/ (if using Vite)
-
-
-📜 License
-
-This project is open source and available under the MIT License.
