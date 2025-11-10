@@ -12,7 +12,7 @@ https://Marioo-Ayman.github.io/Advice-Generator-App
 
 ## 🖼️ Preview
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://drive.google.com/file/d/1dpzwyT1m29-xpZm3bRrXWDVgYs0EtuGL/view?usp=sharing)
 
 ## 🧩 Features
 
